@@ -1,8 +1,0 @@
- D .env.example
- M config/database.js
- M package-lock.json
- M package.json
-?? auto-commit.bat
-?? database.sqlite
-?? nodemon.json
-?? temp_files.txt
